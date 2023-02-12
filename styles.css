@@ -1,0 +1,18 @@
+body{
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.recipes{
+    font-weight: 700;
+    font-size: 24px;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
